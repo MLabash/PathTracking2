@@ -9,7 +9,7 @@ stop tracking:
 
 clear history:
 1. delete all previous stored locations.
-2. re-center the map at the default point(location). 
+2. re-center the map at the default point(location).
 
 preview: 
- 1. display a table contains all stored locations and it's time.
+ 1. display a table contains all stored locations and it's time .
