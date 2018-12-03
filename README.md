@@ -13,3 +13,4 @@ clear history:
 
 preview: 
  1. display a table contains all stored locations and it's time.
+ .
